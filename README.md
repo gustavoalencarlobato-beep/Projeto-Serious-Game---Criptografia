@@ -3,7 +3,7 @@ Os jogadores precisam aplicar manualmente essa tabela para converter das letras 
 Essa escolha atende ao objetivo da disciplina de reforçar conceitos básicos de criptografia, sem entrar em algoritmos modernos como RSA.
 
 Estrutura do Projeto
-Os principais arquivos deste repositório são:
+Os principais arquivos deste repositório são:	
 
 •  index.html — Estrutura da interface do jogo (layout das abas, terminal, textos das fases).
 •  style.css — Estilos visuais (tema escuro, painéis, tipografia estilo "terminal").
