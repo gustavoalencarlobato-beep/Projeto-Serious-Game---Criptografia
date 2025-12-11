@@ -37,6 +37,7 @@ Alinhamento com os Critérios de Avaliação
 •  Narrativas e mensagens foram escritas pensando na coerência histórica e na clareza do objetivo educativo.
 •  O repositório GitHub centraliza o código-fonte e pode ser apresentado junto com o GDD exigido pela disciplina.
 
-
+link do GDD: https://docs.google.com/document/d/1CedQFfRaJhjeozWVBvHej-VDqaJgFkVaZ1gD7gw5nN0/edit?usp=sharing
+link do projeto de apresentação: https://www.canva.com/design/DAG7KbjrL3k/W0r8xaHhMGun2qfz_qqVEw/edit?utm_content=DAG7KbjrL3k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Equipe: Gustavo Alencar e Cauê Milhomem  
